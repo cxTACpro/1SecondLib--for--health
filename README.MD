@@ -1,5 +1,5 @@
-#1 Second Library
-This is the health edition 1 second lib, if any issues found FIX IT YOURSELF, I won't help
+1 Second Library Health Edition
+if any issues found FIX IT YOURSELF, I won't help
 
 *_NOTE*
 can be used in place(s) {
